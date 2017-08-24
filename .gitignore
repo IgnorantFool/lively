@@ -1,0 +1,7 @@
+node_modules
+.idea/workspace.xml
+libs
+.idea/lively.iml
+.idea/modules.xml
+.idea/vcs.xml
+

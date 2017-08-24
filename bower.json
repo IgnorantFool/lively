@@ -1,0 +1,20 @@
+{
+  "name": "lively",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "FizzPang <pangmc@sctek.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/IgnorantFool/lively",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
